@@ -16,3 +16,4 @@ if len(original) > 0 and original.isalpha():
         print new_word
 else:
     print "Empty or Invalid string: %s" % (original)
+
